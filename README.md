@@ -1,4 +1,3 @@
-# Shahnawaz_Rajput
 Welcome to My GitHub!
 👋 Hey there! I'm Shahnawaz, a passionate aspiring Data Analyst eager to embark on the journey of transforming data into actionable insights.
 
